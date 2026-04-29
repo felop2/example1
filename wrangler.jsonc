@@ -1,6 +1,6 @@
 {
     "$schema": "./node_modules/wrangler/config-schema.json",
-    "name": "clase1",
+    "name": "example1",
     // Set this to today's date
     "compatibility_date": "2026-04-29",
     "assets": {
